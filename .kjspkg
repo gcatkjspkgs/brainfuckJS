@@ -2,7 +2,7 @@
     "author": "G_cat", 
     "description": "A BrainFuck interpreter made with KubeJS out of sheer boredom. Docs: https://github.com/gcatkjspkgs/brainfuckJS/blob/main/README.md", 
 
-    "versions": [6, 8, 9],
+    "versions": [6, 8, 9, 10],
     "modloaders": ["forge", "fabric"], 
     "dependencies": [], 
     "incompatibilities": []
